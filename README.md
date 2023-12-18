@@ -26,5 +26,3 @@
 
 ![4](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/4.png)
 
-![5](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/5.png)
-
