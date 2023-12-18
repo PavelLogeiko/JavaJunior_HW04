@@ -14,17 +14,17 @@
 
 Программа находится в каталоге task2.
 
-Контейнер с базой данных
+Контейнер с базой данных:
 
-![1]()
+![1](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/1.png)
 
 Скрины работы приложения:
 
-![2]()
+![2](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/2.png)
 
-![3]()
+![3](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/3.png)
 
-![4]()
+![4](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/4.png)
 
-![5]()
+![5](https://github.com/PavelLogeiko/JavaJunior_HW04/blob/main/images/5.png)
 
