@@ -12,7 +12,7 @@
 
 Убедитесь, что каждая операция выполняется в отдельной транзакции.
 
-Программа находится в каталоге task2.
+Программа находится в каталоге ![task2](https://github.com/PavelLogeiko/JavaJunior_HW04/tree/main/src/main/java/ru/geekbrains/task2)
 
 Контейнер с базой данных:
 
